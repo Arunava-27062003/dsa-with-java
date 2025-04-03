@@ -1,4 +1,4 @@
-public class Strings {
+public class StringsDemo {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Arunava");
         System.out.println(sb);
