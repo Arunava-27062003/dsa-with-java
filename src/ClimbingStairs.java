@@ -7,6 +7,5 @@ public class ClimbingStairs {
     public static int climbStairs(int n) {
          return n;
 
-        
     }
 }
